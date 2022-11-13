@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <link rel="me" href="https://mastodon.online/@YvesHanoulle)" />
+
 [![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=yveshanoulle&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
